@@ -9,23 +9,5 @@
 - [Quotes](#Quotes)
 - [Conclusion](#Conclusion)
 
-## Intention
-
-
-
-## Overview
-
-
-
-## Summary
-
-
-
-## Quotes
-
-
-
-## Conclusion
-
 
 
