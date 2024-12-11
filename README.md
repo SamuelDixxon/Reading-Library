@@ -1,4 +1,4 @@
-# 2023-Reading-Project
+Reading-Project
 
 ## TODO
 
