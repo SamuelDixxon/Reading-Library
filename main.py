@@ -20,7 +20,7 @@ while True:
 
     book_info = book_title.replace(" ", "-") + "_" + book_author.replace(" ", "-")
     # Create a folder with the book title and author as the folder name
-    folder_name = f"{book_info}"
+    folder_name = book_info
     os.makedirs(folder_name, exist_ok=True)
 
     # Create a markdown file about the book
@@ -40,7 +40,7 @@ while True:
             },
             {
                 "role": "user",
-                "content": f"Provide a brief summary of the book '{book_title}' by {book_author}. Give some information about the author. Provide relevant reference website links in markdown formatting for more information.",
+                "content": f"Provide a brief summary of the book '{book_title}' by {book_author}. Give some information about the author. Provide relevant reference website links in markdown formatting for more information. Ensure the links are valid and are not dead.",
             }
         ],
         model="llama3-8b-8192",
