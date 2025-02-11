@@ -40,7 +40,7 @@ while True:
             },
             {
                 "role": "user",
-                "content": f"Provide a brief summary of the book '{book_title}' by {book_author}. Give some information about the author. Provide relevant reference website links in markdown formatting for more information. Ensure the links are valid and are not dead.",
+                "content": f"Provide a brief summary of the book '{book_title}' by {book_author}. Give some information about the author. Provide links to top google search results of book",
             }
         ],
         model="llama3-8b-8192",
