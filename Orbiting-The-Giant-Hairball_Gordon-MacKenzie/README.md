@@ -5,7 +5,7 @@
 
 "Orbiting the Giant Hairball: A Corporate Fool's Guide to Surviving and Thriving in the Shareholder Value Revolution" is a thought-provoking book written by Gordon MacKenzie, a former corporate executive who challenges traditional business practices. The book explores the concept of "corporate foolishness" and argues that businesses should prioritize their employees' well-being, creativity, and fulfillment over solely pursuing profits.
 
-MacKenzie advocates for a more organic, adaptive approach to management, encouraging leaders to "orbit the giant hairball" – a metaphor for getting stuck in a situation and struggling to escape – rather than attempting to control every aspect of their business. By embracing chaos and uncertainty, organizations can foster innovation, improve employee engagement, and achieve greater success.
+MacKenzie advocates for a more organic, adaptive approach to management, encouraging leaders to "orbit the giant hairball" ï¿½ a metaphor for getting stuck in a situation and struggling to escape ï¿½ rather than attempting to control every aspect of their business. By embracing chaos and uncertainty, organizations can foster innovation, improve employee engagement, and achieve greater success.
 
 **Author Information:**
 
